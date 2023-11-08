@@ -52,3 +52,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# st specific
+config.h
+*.orig
+patches/
