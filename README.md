@@ -1,6 +1,6 @@
 # st
 
-My configuration of st (simple terminal)
+My configuration of st. (simple terminal)
 
 ## Patches used
 * [alpha](https://st.suckless.org/patches/alpha/)
